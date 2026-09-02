@@ -1,6 +1,6 @@
 ---
 name: "proofread"
-description: "Review the uploaded document for drafting quality, internal consistency, and mechanical errors."
+description: "Review a selected legal document for problems with definitions, parties, numbers and dates, internal consistency, cross-references, numbering and its table of contents, formatting, grammar, and typographical errors. Return a prioritized Markdown table with severity, category, location, issue, and recommended fix."
 license: "MIT"
 metadata:
   version: "1.0.0"

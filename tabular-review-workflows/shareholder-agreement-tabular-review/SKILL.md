@@ -1,6 +1,6 @@
 ---
 name: "shareholder-agreement-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected shareholder agreements and extract parties, share capital and holdings, governance, reserved matters, new-issue and transfer rights, drag/tag and dilution protections, dividends, exit, deadlock, restrictive covenants, confidentiality, warranties, governing law, and disputes. Return one structured row per agreement with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

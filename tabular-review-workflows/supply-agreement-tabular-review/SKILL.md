@@ -1,6 +1,6 @@
 ---
 name: "supply-agreement-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected supply agreements and extract parties, products, term and renewal, delivery, quality, warranties, damages, liability, force majeure, termination, and dispute terms. Return one structured row per agreement with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "extract-key-terms"
-description: "Extract the key legal, commercial, and operational terms from the uploaded documents."
+description: "Review selected legal, commercial, or operational documents and extract parties, dates, term, obligations, economics, risk allocation, termination, and other material terms. Return a concise Markdown table with each term, value, source location, and notes."
 license: "MIT"
 metadata:
   version: "1.0.0"

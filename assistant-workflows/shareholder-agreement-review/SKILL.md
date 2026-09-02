@@ -1,6 +1,6 @@
 ---
 name: "shareholder-agreement-review"
-description: "Review the uploaded shareholder agreement and produce a comprehensive table-based legal review from the perspective of the party represented by the user/client."
+description: "Review a shareholder agreement for the represented party. Assess share rights, holdings, governance, reserved matters, transfers, pre-emption, drag/tag rights, dilution, exit, deadlock, restrictive covenants, and drafting risks, with clause references and recommended changes in a prioritized table."
 license: "MIT"
 metadata:
   version: "1.0.0"

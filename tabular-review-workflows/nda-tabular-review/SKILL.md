@@ -1,6 +1,6 @@
 ---
 name: "nda-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected NDAs and extract directionality, confidential-information scope, receiving-party obligations, carve-outs, permitted disclosures, duration, return or destruction, remedies, and governing law. Return one structured row per NDA with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

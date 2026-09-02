@@ -1,6 +1,6 @@
 ---
 name: "draft-from-template"
-description: "Turn an uploaded DOCX precedent into a new, reusable Word draft without modifying the source."
+description: "Use a selected DOCX precedent and supporting facts to produce a new Word draft without changing the source. Preserve useful legal text, structure, styles, numbering, definitions, cross-references, schedules, and notes while replacing matter-specific details and leaving unresolved facts open."
 license: "MIT"
 metadata:
   version: "1.0.0"

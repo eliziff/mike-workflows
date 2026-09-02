@@ -1,6 +1,6 @@
 ---
 name: "limited-partnership-agreement-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected limited partnership agreements and extract fund identity and term, capital commitments and calls, funding penalties, investment restrictions, fees, carried interest, preferred return, catch-up, clawback, distributions, governance, key-person and removal rights, transfers, conflicts, and governing law. Return one structured row per agreement with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

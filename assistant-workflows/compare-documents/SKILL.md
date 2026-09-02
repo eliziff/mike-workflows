@@ -1,6 +1,6 @@
 ---
 name: "compare-documents"
-description: "Compare the uploaded documents in a structured table, highlighting key similarities, differences, risks, and follow-up points."
+description: "Compare two or more selected legal or business documents across material provisions, obligations, risks, and commercial terms. Return a source-located table with one column per document, a clear difference column, and up to five key takeaways."
 license: "MIT"
 metadata:
   version: "1.0.0"

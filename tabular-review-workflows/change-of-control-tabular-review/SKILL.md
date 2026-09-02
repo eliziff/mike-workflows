@@ -1,6 +1,6 @@
 ---
 name: "change-of-control-tabular-review"
-description: "This workflow performs a change of control due diligence review across the selected documents."
+description: "Review selected agreements or transaction documents for change-of-control provisions. Extract triggers, notice and consent requirements, termination or put/call rights, and financial consequences into one concise row per document."
 license: "MIT"
 metadata:
   version: "1.0.0"

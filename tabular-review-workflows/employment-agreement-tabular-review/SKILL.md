@@ -1,6 +1,6 @@
 ---
 name: "employment-agreement-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected employment agreements and extract parties, dates and roles, compensation and benefits, employment status, hours and overtime, variation rights, notice and termination, leave, and intellectual-property assignment. Return one structured row per agreement with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

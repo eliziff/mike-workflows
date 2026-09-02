@@ -1,6 +1,6 @@
 ---
 name: "nda-review"
-description: "Review the uploaded non-disclosure agreement and produce a comprehensive table-based legal review from the perspective of the party represented by the user/client."
+description: "Review a non-disclosure agreement for the represented party. Assess purpose, protected information, exclusions, disclosure duties, recipient access, compelled disclosure, duration, remedies, and drafting risks, with clause references and recommended changes in a prioritized table."
 license: "MIT"
 metadata:
   version: "1.0.0"

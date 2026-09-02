@@ -1,6 +1,6 @@
 ---
 name: "commercial-agreement-tabular-review"
-description: "Use this workflow to review uploaded documents and extract structured information into the tabular review columns defined in table-columns.yaml."
+description: "Review selected commercial agreements and extract parties, scope, amendment history, dates, term, pricing and adjustments, contract value, liability, intellectual property, change of control, force majeure, termination, damages, and dispute terms. Return one structured row per agreement with concise, source-supported values."
 license: "MIT"
 metadata:
   version: "1.0.0"

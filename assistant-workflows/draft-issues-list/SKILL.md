@@ -1,6 +1,6 @@
 ---
 name: "draft-issues-list"
-description: "Review the uploaded agreement and draft a comprehensive issues list from the perspective of the party represented by the user/client."
+description: "Review an agreement for the represented party and identify open, unresolved, or contentious legal and commercial points. Return an editable landscape Word document with one prioritized table covering clause references, current positions, and specific proposed changes, followed by an overall negotiation position."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "guarantee-agreement-review"
-description: "Review an uploaded guarantee, guaranty, or guarantee-and-indemnity agreement from the perspective of the party represented by the user."
+description: "Review a guarantee, guaranty, or guarantee-and-indemnity agreement for the represented party. Assess guaranteed obligations, liability structure, caps, demands, defences, continuing coverage, enforcement, and drafting risks, with clause references and recommended changes in a prioritized table."
 license: "MIT"
 metadata:
   version: "1.0.0"

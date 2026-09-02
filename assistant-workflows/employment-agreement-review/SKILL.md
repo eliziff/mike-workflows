@@ -1,6 +1,6 @@
 ---
 name: "employment-agreement-review"
-description: "Review the uploaded employment agreement and produce a comprehensive table-based legal review from the perspective of the party represented by the user/client."
+description: "Review an employment agreement for the represented party. Identify material employment, compensation, termination, restrictive covenant, confidentiality, intellectual property, and drafting risks, with clause references and recommended changes, in a prioritized table ending with an overall risk rating."
 license: "MIT"
 metadata:
   version: "1.0.0"

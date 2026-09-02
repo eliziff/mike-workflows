@@ -1,6 +1,6 @@
 ---
 name: "credit-agreement-review"
-description: "Review the uploaded credit agreement and produce a comprehensive table-based legal review from the perspective of the party represented by the user/client."
+description: "Review a credit agreement and its schedules for the represented party. Identify material financial, legal, operational, and enforceability risks, with clause references and recommended changes, in a prioritized table ending with an overall risk rating."
 license: "MIT"
 metadata:
   version: "1.0.0"
