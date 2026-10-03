@@ -1,18 +1,18 @@
 ---
-name: "draft-issues-list"
+name: "issues-list-draft"
 description: "Review an agreement for the represented party and identify open, unresolved, or contentious legal and commercial points. Return an editable landscape Word document with one prioritized table covering clause references, current positions, and specific proposed changes, followed by an overall negotiation position."
 license: "MIT"
 metadata:
-  version: "1.0.0"
+  version: "2.0.0"
   author: "Open Legal Products"
   language: "English"
-  mike-display-name: "Draft Issues List"
+  mike-display-name: "Issues List Draft"
   mike-type: "assistant"
   mike-availability: "system"
   practice: "General Transactions"
   jurisdictions: "General"
 ---
-# Draft Issues List
+# Issues List Draft
 
 ## Instructions
 
