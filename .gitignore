@@ -1,4 +1,6 @@
 .DS_Store
 *.swp
 *.swo
-`n__pycache__/`n*.pyc
+
+__pycache__/
+*.pyc
